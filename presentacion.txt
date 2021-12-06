@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto lo hizo Naty
+=======
+Trabajando en la presentacion final de Introduccion a la informatica .- esto lo hizo noe
+>>>>>>> 3d0fcbf34291228a2d02224d0dadc975db9a92d7
