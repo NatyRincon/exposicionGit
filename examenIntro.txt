@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Esto lo escribió Naty
 
+=======
+
+
+
+
+
+
+Resolviendo conflictos con naty... espero se resuelvan jajaj :-)
+>>>>>>> dfc8b3964379579856049431375c81c7f52fec2d
